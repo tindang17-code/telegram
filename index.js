@@ -1,7 +1,7 @@
-const Binance = require('binance')
-const Telegraf = require('telegraf')
+const Binance = require('eRwgZqC8VGn5GBqaj0bVwCMkpahk4iitkHJXiN3jDyZfiwqTCYCz2AdFmWlagSOu')
+const Telegraf = require('1862507230:AAFVAeGOcfGjdzHSSU5eQNtLB5QU393DM9g')
 
-const secrets = require('./secrets')
+const secrets = require('./4CkOHHQJbK2mn7WLiKPukE3t5j7dEzpfJVS9ARoOqnzAKLA1H40uKMbfehKg1RpM')
 
 const binance = new Binance.BinanceRest({
   key: secrets.binanceKey,
